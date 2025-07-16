@@ -37,6 +37,6 @@ This Java application simulates a bus station system, allowing users to view pre
 
 ## 👤 Author
 
-Developed by Ștefan Atomulesei  
+Developed by Ștefan Atomulesei,Alexa Roxana-Maria
 Bachelor project – Faculty of Automation and Computer Science  
 Technical University of Iași (2025)
